@@ -1,6 +1,6 @@
-python3 -m venv --system-site-packages venv
-
 sudo apt install python3-rpi-lgpio
+
+python3 -m venv --system-site-packages venv
 
 pip3 install rpi-lgpio
 
